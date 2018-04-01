@@ -3,6 +3,7 @@ html {
   font-family: sans-serif;
   background: Black;
   text-align: center;
+  color: white;
 }
 h1 {
   color: White;
@@ -11,9 +12,31 @@ h1 {
   font-size: 50px;
   font-orientation: center; 
 }
-h2 {
-  color: DarkGreen;
+h3 {
+  color: Aquamarine;
+  font-weight: normal; 
+  text-decoration: underline;
+  text-decoration-color: Aquamarine;
+  font-size: 16px;
+  font-orientation: center; 
 }
+h2 {
+  font-family: Verdana;
+  font-weight: 300; 
+  font-size: 42px;
+  font-orientation: center; 
+}
+p {
+  color: Gray;
+  font-family: Verdana; 
+  font-size: 21px;
+  font-orientation: left; 
+}
+h4 {
+  color: Gray;
+  text-align: right;
+}
+
 ol li a {
   color: SeaGreen;
 }
