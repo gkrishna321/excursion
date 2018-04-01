@@ -3,7 +3,11 @@ html {
   font-family: sans-serif;
 }
 h1 {
-  color: DarkGreen;
+  color: White;
+  font-family: Verdana; 
+  font-weight: Normal; 
+  font-size: 50px;
+  font-orientation: center; 
 }
 h2 {
   color: DarkGreen;
