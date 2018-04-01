@@ -1,6 +1,8 @@
 html {
   font-family: Helvetica; 
   font-family: sans-serif;
+  background: Black;
+  text-align: center;
 }
 h1 {
   color: White;
